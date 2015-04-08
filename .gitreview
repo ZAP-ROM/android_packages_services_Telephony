@@ -1,0 +1,5 @@
+[gerrit]
+host=review.sonic-developers.com
+port=29418
+project=SOKP/packages_services_Telephony.git
+defaultbranch=sokp-l5.1
